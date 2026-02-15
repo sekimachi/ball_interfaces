@@ -1,0 +1,5 @@
+string color
+---
+bool success
+---
+string state
